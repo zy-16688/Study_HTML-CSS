@@ -1,0 +1,9 @@
+<!DOCTYPE> 文档类型声明
+<h1> </h1> 标题标签  共有6级
+<p> </p>  段落标签
+<br /> 换行标签
+<div>div是个大盒子独占一行 </div>
+<span>span是个小盒子</span>
+<div></div>布局标签
+<span></span>
+<strong></strong>加粗 文本格式化标签
